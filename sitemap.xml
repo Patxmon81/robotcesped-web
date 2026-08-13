@@ -51,6 +51,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://robotcesped.es/pages/comparativas/mova-viax500-vs-cecotec-grasshopper-800.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://robotcesped.es/pages/reviews/eufy-e18.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -97,6 +102,16 @@
   </url>
   <url>
     <loc>https://robotcesped.es/pages/reviews/lawnmaster-ocumow16.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://robotcesped.es/pages/reviews/mova-viax500.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://robotcesped.es/pages/reviews/cecotec-grasshopper-800-proai.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

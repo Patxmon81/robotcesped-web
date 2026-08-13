@@ -109,6 +109,24 @@ const PRODUCTOS_POR_SUPERFICIE = [
     enlace: 'https://amzn.to/4exkKfd'
   },
   {
+    maxSuperficie: 650,
+    rango: '500 m²',
+    nombre: 'MOVA ViAX 500',
+    specs: '500 m² · 90 min · 57 dB',
+    precio: '749€',
+    imagen: 'assets/images/products/mova-viax500.jpg',
+    enlace: 'https://amzn.to/4bO4N2k'
+  },
+  {
+    maxSuperficie: 800,
+    rango: '800 m²',
+    nombre: 'Cecotec Conga GrassHopper 800 ProAI',
+    specs: '800 m² · 65 min · 55 dB',
+    precio: '629€',
+    imagen: 'assets/images/products/cecotec-grasshopper-800-proai.jpg',
+    enlace: 'https://amzn.to/4bO4V1O'
+  },
+  {
     maxSuperficie: 1000,
     rango: '1.000 m²',
     nombre: 'ANTHBOT M9',
